@@ -1,0 +1,17 @@
+HELLO WORLD!
+	hello SEG265! 265
+THIS IS A TEST FILE
+This test file is bad
+
+GREP IN C
+Not java
+TESTING IF IS A
+Testable 
+IT IS AN APPLE
+Not a microsoft 
+WHO DOES THIS
+who knows it
+OH MY IS IT
+This assignment is so hard
+That it cant be done within
+10 days
